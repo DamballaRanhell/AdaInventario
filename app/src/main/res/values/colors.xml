@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fbbc05</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#fbbc05</color>
+    <color name="yellow_gs">#fbbc05</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="yellow_aud">#efac06</color>
+    <color name="dark_yellow_aud">#b2800f</color>
+    <color name="gris">#EEEEEE</color>
+    <color name="grisClaro">#DDDDDD</color>
+    <color name="grisMedio">#CCCCCC</color>
+    <color name="grisObscuro">#808080</color>
+    <color name="blanco">#FFFFFF</color>
+</resources>
